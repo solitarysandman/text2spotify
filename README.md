@@ -1,6 +1,7 @@
 ## Installation
 
     pip install spotipy
+    git clone https://github.com/solitarysandman/text2spotify.git
 
 ## Quick Start
 
